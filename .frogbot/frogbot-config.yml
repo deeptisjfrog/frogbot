@@ -2,4 +2,4 @@
     git:
       repoName: project-examples
       branches:
-        - main
+        - master
